@@ -1,0 +1,55 @@
+.mainDiv {
+    display: flex;
+    flex-direction: row;
+}
+
+.navbar {
+    width: 14%;
+    height: 100vh;
+    background-color: rgb(191 191 191 / 53%);
+}
+
+.container {
+    width: 86%;
+    height: 100vh;
+}
+
+.container_main {
+    height: 88.2%;
+    background-color: #0091FF;
+}
+
+.container_first {
+    height: 60%;
+    display: flex;
+}
+
+.container_second_heading {
+    height: 30%;
+}
+
+.container_second {
+    height: 85%;
+    display: flex;
+}
+
+.container_second .container_card {
+    margin-left: 10%;
+    border-radius: 15px;
+}
+
+.container_first .container_first_one {
+    width: 22%;
+    margin-right: 200px;
+    height: 98%;
+}
+
+.container_first .container_first_two {
+    width: 45%;
+    margin-right: 100px;
+    height: 98%;
+}
+
+.css-46bh2p-MuiCardContent-root {
+    padding: 0!important;
+}

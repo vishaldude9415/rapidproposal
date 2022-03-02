@@ -1,0 +1,25 @@
+.head {
+    height: 10%;
+    background-color: rgba(128, 128, 128, 0.144) !important;
+    display: flex;
+}
+
+.logo {
+    margin-left: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo img {
+    width: 60px;
+    border-radius: 50%;
+}
+
+.heading {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    color: #5f46ce;
+}

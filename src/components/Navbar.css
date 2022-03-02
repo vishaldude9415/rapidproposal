@@ -1,0 +1,25 @@
+.btns {
+    display: flex;
+    flex-direction: column;
+    padding-top: 50%;
+}
+
+.btns a {
+    text-decoration: none;
+}
+
+.btns button {
+    width: 100%;
+    margin-bottom: 10px;
+    background-color: white;
+    text-decoration: none;
+}
+
+.btns button:hover {
+    background-color: rgb(126, 99, 190);
+    color: white;
+}
+
+.nav {
+    height: 100%;
+}

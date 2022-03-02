@@ -1,0 +1,14 @@
+.scrollit {
+    overflow: scroll;
+    height: 300px;
+}
+
+.css-hw30fy td {
+    padding: 3px !important;
+    text-align: center !important;
+}
+
+.css-hw30fy th {
+    padding: 20px !important;
+    text-align: center !important;
+}

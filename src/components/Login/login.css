@@ -1,0 +1,28 @@
+        .log {
+            background-image: linear-gradient(to right, #8E2DE2, #4A00E0);
+            /* width: 100vw;
+    height: 100vh; */
+        }
+        
+        .container {
+            /* background-color: wheat; */
+        }
+        
+        .txt {
+            background: -webkit-linear-gradient(#8E2DE2, #4A00E0);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+        
+        .btn {
+            background-image: linear-gradient(to right, #8E2DE2, #4A00E0) !important;
+        }
+        
+        .css-1480iag-MuiInputBase-root-MuiInput-root:after {
+            border-bottom: 2px solid #741CE1 !important;
+            color: white;
+        }
+        
+        .css-1c2i806-MuiFormLabel-root-MuiInputLabel-root {
+            color: #741CE1!important;
+        }
